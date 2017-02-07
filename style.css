@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+.day-theme {
+  background-color: rgb(247, 240, 142);
+  color: rgb(10, 14, 51);
+}
+
+.night-theme {
+  background-color: rgb(10, 14, 51);
+  color: rgb(247, 240, 142);
+}
